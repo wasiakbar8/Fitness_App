@@ -389,7 +389,7 @@ export default function TrainingCalendar() {
                 <Text style={s.restDayEmoji}>😴</Text>
                 <Text style={s.restDayTxt}>Rest Day</Text>
                 <Text style={s.restDaySub}>
-                  Tap "Add Workout" to schedule one
+                  Tap Add Workout to schedule one
                 </Text>
               </View>
             )}
